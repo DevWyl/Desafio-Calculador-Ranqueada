@@ -1,2 +1,2 @@
 # Desafio-Calculador-Ranqueada
-Calcula de ranking de acordo com partidas
+Calculadora de ranking (elo/tier) de acordo com partidas ganhas
